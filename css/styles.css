@@ -1,0 +1,37 @@
+body{
+	overflow-y : auto;
+}
+body{
+color:white;
+padding: 6em 0;
+	background-image: url("https://i.pinimg.com/originals/4f/07/61/4f07618e6737f672bedccccd4ed06f16.jpg");
+	min-height:100px;
+	background-attachment: fixed;
+	background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+* {
+  box-sizing: border-box;
+}
+  #myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: white;
+  color: black;
+  cursor: pointer;
+  padding: 15px;
+
+}
+

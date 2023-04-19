@@ -1,0 +1,92 @@
+
+/* Style the body */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+/* Header/logo Title */
+.header {
+  padding: 100px;
+  text-align: center;
+     min-height:100px;
+        background-attachment: fixed;
+        background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image:url("https://static.vecteezy.com/system/resources/previews/000/108/679/non_2x/free-geometric-pattern-6-vector.jpg");
+  color: white;
+}
+
+/* Increase the font size of the heading */
+.header h1 {
+  font-size: 40px;
+}
+
+
+
+/* Column container */
+.row {  
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.side {
+  -ms-flex: 20%; /* IE10 */
+  flex: 20%;
+  background-color: #f1f1f1;
+  padding: 20px;
+          background-attachment: fixed;
+        background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+background-color:#2F4F4F;
+}
+
+/* Main column */
+.main {   
+  -ms-flex: 50%; /* IE10 */
+  flex: 50%;
+  background-color: white;
+  padding: 20px;
+        background-attachment: fixed;
+        background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color:#66CDAA;
+}
+
+.x{-ms-flex: 30%;
+	flex: 30%;
+	background-image: url("https://cdn.dribbble.com/users/354615/screenshots/1390891/background.png");
+
+}
+/* Footer */
+.footer {
+  padding: 10px;
+  text-align: center;
+  background: #5F9EA0;
+}
+
+
+
+table, th, td {padding:20px;
+}
+th,td{padding:20px;}
+  table tr#ROW1  {background-color:#008B8B; color:black;}
+    table tr#ROW2  {background-color:#008B8B; color:black;}
+      table tr#ROW3  {background-color:#008B8B; color:black;}
+  table tr#ROW4  {background-color:#20B2AA; color:black;}
+    table tr#ROW5  {background-color:#20B2AA; color:black;}
+  table tr#ROW6  {background-color:#20B2AA; color:black;}
+
+    table tr#ROW7  {background-color:#66CDAA; color:black;}
+        table tr#ROW8  {background-color:#66CDAA; color:black;}
+	    table tr#ROW9  {background-color:#66CDAA; color:black;}
+table{background-color=#F6F6F6;;
+	font-color:white;}
