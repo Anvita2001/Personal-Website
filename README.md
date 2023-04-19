@@ -1,6 +1,8 @@
 # Personal-Website
-Added all files for Personal Website Project which is hosted on the web address https://researchweb.iiit.ac.in/~anvita.katipelly/
+Created a responsive Personal Website usinf only Vanilla JS, HTML and CSS and deployed it as well.
+Can be found at:
+ https://researchweb.iiit.ac.in/~anvita.katipelly/
 ## 
-**Used Vanilla JS only**
+**Used  JS, HTML and CSS only**
 ##
 **Hosted with all security and relevant permissions**
